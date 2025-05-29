@@ -4,8 +4,8 @@
 This project presents an interactive dashboard developed using Tableau Public to visualize and analyze global COVID-19 data. The dashboard provides insights into the spread of the virus, including confirmed cases, deaths, recoveries, and vaccination progress across countries and over time.
 
 📊 Key Features
-- Global Statistics: Total cases, deaths, and recoveries
-- Country-wise Comparison: Filter by country to see detailed statistics
+- **Global Statistics:** Total cases, deaths, and recoveries
+- **Country-wise Comparison:** Filter by country to see detailed statistics
 - **Time Series Trends:** Daily and cumulative case analysis
 - **Vaccination Progress:** Visualize doses administered across countries
 - **Interactive Filters:** Control panel for selecting country and date range
